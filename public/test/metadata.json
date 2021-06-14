@@ -1,0 +1,25 @@
+{
+    "metadata": [
+        {
+            "dataset_name": "Peacekeeping",
+            "dataset_id": "1",
+            "api": "Yes",
+            "data_description": "This dataset contains all records of deaths in United Nations Peacekeeping and Special Political Missions between the years of 1947 and 2020 (disclaimer: not all deaths of peacekeepers are contained in this dataset)",
+            "columns": "9",
+            "aggregated_by": "Mission, Gender, Date",
+            "type": "records",
+            "languages": "english",
+            "source": "United Nations Secretariat",
+            "tags": "Peacekeeping",
+            "granularity": "Mission-level",
+            "geographical_coverage": "All UN Missions",
+            "periodicity": "n/a",
+            "dataset_date_range": "1947-Present",
+            "release": "1/5/15",
+            "update": "1/5/21",
+            "update_freq": "weekly",
+            "limitations": "Certain incidents not recorded in this dataset such as deaths outside the mission, etc",
+            "definitions": "[nestled table] (see below)"
+        }
+    ]
+}
